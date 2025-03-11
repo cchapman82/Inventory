@@ -10,7 +10,7 @@
  *		action options for user 
  *			Enter into current inventory in quick or regular mode
  *			Enter into master inventory
- *			Make items for inventory, venor
+ *			Make items for inventory, vendor
  *			Update current inventory
  *			Update master inventory
  *			print reports
