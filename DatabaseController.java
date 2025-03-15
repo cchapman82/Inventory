@@ -68,8 +68,8 @@ public class DatabaseController {
 
 	private static Connection conn = null;
 	private static Statement stmt = null;
-	private final String password = "Decuit55Mihi!";
-	private final String user = "christopher";
+	private final String password = "";
+	private final String user = "";
 	private final String url = "jdbc:postgresql://127.0.0.1:5432/inventory";
 	private static DatabaseController inst = null;
 
